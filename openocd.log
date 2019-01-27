@@ -20,3 +20,6 @@ Info : accepting 'gdb' connection on tcp/3333
 Warn : Unknown device (HWID 0x000000c7)
 target halted due to debug-request, current mode: Thread 
 xPSR: 0x01000000 pc: 0x000000d8 msp: 0x20010000
+shutdown command invoked
+
+
